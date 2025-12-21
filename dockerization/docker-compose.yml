@@ -1,0 +1,15 @@
+services:
+  finance-app:
+    build:
+      context: ..
+      dockerfile: Dockerfile
+    container_name: inexo
+    ports:
+      - "8501:8501"
+    volumes:
+      # This maps the project root directory (on host) to /app (in container)
+      # This ensures database changes and code changes are synced immediately
+      - ../:/app
+      # IGNORE the host's venv folder. This prevents slowness.
+      - /app/venv
+    restart: unless-stopped
