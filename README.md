@@ -26,15 +26,14 @@
 
 
 ## ✨ Story Behind “IneX̂ō”
-- “In” for Income, “eX̂” for Expense, woven together with the stylized ̂ō symbolizes 
- operations
+- “In” for Income, “eX̂” for Expense, woven together with the stylized ō symbolizes  operations 
 > Tagline: **Track. Save. Thrive.**
 
 
 
 ## About
 
-**IneX̂ō** (“in-EX-oh” 🔊) is part of the FōX̂iИ Suite (“fox-een” 🔊) — a family of intelligent finance apps ([NAViō](https://github.com/shijoshaji/NAVio), [IneX̂ō](https://github.com/shijoshaji/IneXo), [FiИōra](https://bio.link/shijoshaji)) built to help you track, analyze, and optimize your financial journey with clarity and confidence.
+**IneX̂ō** (“in-EX-oh” 🔊) is part of the FōX̂iИ Suite (“fox-een” 🔊) — a family of intelligent finance apps ([NAViō](https://github.com/shijoshaji/NAVio), [IneX̂ō](https://github.com/shijoshaji/IneXo), [FiИōra](https://bio.link/shijoshaji)) built to help you track, save, and thrive your financial journey with clarity and confidence.
 
 **IneX̂ō** allows users to securely track income, expenses, investments, debts, credit card usage, and vehicle maintenance costs and more. It features multi-user support, interactive dashboards, and detailed analytics to help you stay on top of your financial health.
 
@@ -44,7 +43,8 @@
 ## 🚀 Features
 
 - **🔐 Multi-User Authentication**: Secure login system ensuring data isolation between users.
-  - **Default Admin**: `shijo`
+  - **Default Admin user/password**: `shijo`/`admin123`
+  - Login and create your admin user/password and then delete the default admin
 - **📊 Interactive Dashboard**: Real-time overview of your financial status including Total Income, Expenses, Savings Rate, and Net Savings.
 - **📝 Transaction Management**:
   - Add, Edit, and Delete transactions.
